@@ -1,8 +1,6 @@
 # React-SPA-Bubbles
 
-A React application that requires a login to show a protected page. Using a JSON Web Token to authenticate requests. The application supports following requests":
-
-GET colors, PUT a changed color, and DELETE a color. 
+A React application that requires a login to show a protected page. Using a JSON Web Token to authenticate requests. The application supports following requests: GET colors, PUT a changed color, and DELETE a color. 
 
 #### API Documentation
 
